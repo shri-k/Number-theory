@@ -9,3 +9,7 @@ timestable: generates a times table
 simplecalc: simple calculator with 2 numbers
 
 simpleprimetest: test if a number is prime or composite
+
+smallestfactor: finds the smallest factor of a number
+
+factorization: factorizes a given number
