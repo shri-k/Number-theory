@@ -15,7 +15,7 @@ smallestfactor: finds the smallest factor of a number
 factorization: factorizes a given number
 
 greatestcommondivisor: finds the greatest common divisor of two given numbers
-   gcd: same as above, but implemented as a function
+*   gcd: same as above, but implemented as a function
 
 leastcommonmultiple: finds the least common multiple of two given numbers
 
